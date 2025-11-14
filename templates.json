@@ -25,7 +25,7 @@
         "language": "Go",
         "source": "openfaas",
         "description": "Request/response style HTTP template",
-        "repo": "https://github.com/openfaas/golang-http-template",
+        "repo": "https://github.com/welteki/golang-http-template#sha-b518c6adac2edfbed03d1cf10c201f1f38c58cd2",
         "official": "true"
     },
        {
