@@ -28,6 +28,15 @@
         "repo": "https://github.com/openfaas/golang-http-template",
         "official": "true"
     },
+       {
+        "template": "golang-otel",
+        "platform": "x86_64",
+        "language": "Go",
+        "source": "openfaas",
+        "description": "HTTP middleware interface in Go wit OTEL support",
+        "repo": "https://github.com/welteki/golang-http-template#otel",
+        "official": "false"
+    },
     {
         "template": "dotnet8-csharp",
         "platform": "x86_64",
