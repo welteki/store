@@ -20,6 +20,16 @@
         "recommended": true
     },
     {
+        "template": "golang-middleware-inproc",
+        "platform": "x86_64",
+        "language": "Go",
+        "source": "openfaas",
+        "description": "Fastest template for Go, suitable for beta testing.",
+        "repo": "https://github.com/openfaas/golang-http-template",
+        "official": "true",
+        "recommended": true
+    },
+    {
         "template": "golang-http",
         "platform": "x86_64",
         "language": "Go",
